@@ -1,0 +1,364 @@
+{
+  "hotspot": [
+    {
+      "id": "1",
+      "district": "jaipur",
+      "name": "City Palace",
+      "type": "historic place, Fort",
+      "address": "Tulsi Marg, Gangori Bazaar, J.D.A. Market, Pink City, Jaipur",
+      "lat": "26.9258° N",
+      "lon": " 75.8237° E"
+    },
+    {
+      "id": "2",
+      "district": "jaipur",
+      "name": "Jantar Mantar",
+      "type": "historic place",
+      "address": "Gangori Bazaar, J.D.A. Market, Pink City, Jaipur",
+      "lat": "28.6271° N",
+      "lon": "77.2166° E"
+    },
+    {
+      "id": "3",
+      "district": "jaipur",
+      "name": "Hawa Mahal",
+      "type": "historic place, Fort",
+      "address": "Hawa Mahal Rd., Badi Choupad, J.D.A. Market, Pink City, Jaipur",
+      "lat": "26.9239° N",
+      "lon": "75.8267° E"
+    },
+    {
+      "id": "4",
+      "district": "jaipur",
+      "name": "Amber Fort",
+      "type": "historic place, Fort",
+      "address": "Devisinghpura, Amer, Jaipur",
+      "lat": "26.9880° N",
+      "lon": "75.8610° E"
+    },
+    {
+      "id": "5",
+      "district": "jaipur",
+      "name": "Albert Hall Museum",
+      "type": "historic place, Museum",
+      "address": "Museum Road, Ram Niwas Garden, Kailash Puri, Adarsh Nagar, Jaipur",
+      "lat": "26.9116° N",
+      "lon": "75.8195° E"
+    },
+    {
+      "id": "6",
+      "district": "jaipur",
+      "name": "Birla Mandir",
+      "type": "Temple",
+      "address": "Jawahar Lal Nehru Marg, Tilak Nagar, Jaipur",
+      "lat": "26.8922° N",
+      "lon": "75.8154° E"
+    },
+    {
+      "id": "7",
+      "district": "jaipur",
+      "name": "Nahargarh Fort",
+      "type": "historic place, Fort",
+      "address": "Krishna Nagar, Brahampuri, Jaipur",
+      "lat": "26.9373° N",
+      "lon": "75.8155° E"
+    },
+    {
+      "id": "8",
+      "district": "jaipur",
+      "name": "Galta Ji Temple",
+      "type": "Temple",
+      "address": " Shri Galta Peetham, Galva Ashrama, Jaipur",
+      "lat": "26.9168° N",
+      "lon": "75.8589° E"
+    },
+    {
+      "id": "9",
+      "district": "jaipur",
+      "name": "Amrapali Museum",
+      "type": "Museum",
+      "address": "Ground Floor, K, 14/B, Ashok Marg, Panch Batti, C Scheme, Ashok Nagar, Jaipur",
+      "lat": "26.9152° N",
+      "lon": "75.8014° E"
+    },
+    {
+      "id": "10",
+      "district": "jaipur",
+      "name": "Museum of Legacies",
+      "type": "Museum",
+      "address": "Kishanpole Bazar Road, Modikhana, Jaipur",
+      "lat": "26.9210° N",
+      "lon": "75.8177° E"
+    },
+    {
+      "id": "11",
+      "district": "jaipur",
+      "name": "Jal Mahal",
+      "type": "historic place, Fort",
+      "address": "Amer Rd, Jal Mahal, Amer, Jaipur, Rajasthan",
+      "lat": "26.9535° N",
+      "lon": "75.8462° E"
+    },
+    {
+      "id": "12",
+      "district": "jaipur",
+      "name": "Ajmeri Gate",
+      "type": "historic place",
+      "address": "Sangram Colony, Ashok Nagar, Jaipur",
+      "lat": "28.6427° N",
+      "lon": "77.2247° E"
+    },
+    {
+      "id": "13",
+      "district": "jaipur",
+      "name": "Johri Bazar",
+      "type": "Market, Shopping",
+      "address": "Gangori Bazar, Pink City, Jaipur",
+      "lat": "26.9211° N",
+      "lon": "75.8279° E"
+    },
+    {
+      "id": "14",
+      "district": "jaipur",
+      "name": "Bapu Bazar",
+      "type": "Market, Shopping",
+      "address": "Biseswarji, Jaipur",
+      "lat": "26.9195° N",
+      "lon": "75.8236° E"
+    },
+    {
+      "id": "15",
+      "district": "jaipur",
+      "name": "Rambagh Palace",
+      "type": "historic place, Fort",
+      "address": "Bhawani Singh Rd, Rambagh, Jaipur",
+      "lat": "26.8981° N",
+      "lon": "75.8081° E"
+    },
+    {
+      "id": "16",
+      "district": "jaipur",
+      "name": "World Trade Park",
+      "type": "Market, Shopping",
+      "address": "Jawahar Lal Nehru Marg, D-Block, Malviya Nagar, Jaipur",
+      "lat": "26.8530° N",
+      "lon": "75.8047° E"
+    },
+    {
+      "id": "17",
+      "district": "jaipur",
+      "name": "Pink Squre Mall",
+      "type": "Market, Shopping",
+      "address": "Plot No. 1, 2, Govind Marg, Saket Colony, Adarsh Nagar, Jaipur",
+      "lat": "26.9032° N",
+      "lon": "75.8367° E"
+    },
+    {
+      "id": "18",
+      "district": "jaipur",
+      "name": "Tara Shopping Mall",
+      "type": "Market, Shopping",
+      "address": "Mansarovar Sector 3, Mansarovar, Jaipur",
+      "lat": "26.8696° N",
+      "lon": "75.7561° E"
+    },
+    {
+      "id": "19",
+      "district": "jaipur",
+      "name": "Gaurav Tower",
+      "type": "Market, Shopping",
+      "address": "GT Rd, Kalyan Colony, D-Block, Crystal Court, Malviya Nagar, Jaipur,",
+      "lat": "26.8552° N",
+      "lon": "75.8067° E"
+    },
+    {
+      "id": "20",
+      "district": "jaipur",
+      "name": "City Squre Mall",
+      "type": "Market, Shopping",
+      "address": "Tonk Rd, Kirti Nagar, Vasundhara Colony, Gopal Pura Mode, Jaipur",
+      "lat": "1.3113° N",
+      "lon": "103.8564° E"
+    },
+    {
+      "id": "21",
+      "district": "jaipur",
+      "name": "Crystal Mall",
+      "type": "Market, Shopping",
+      "address": "MI Road, Collectorate Circle, Sawai Jai Singh Hwy, Jaipur",
+      "lat": "22.2799° N",
+      "lon": "70.7632° E"
+    },
+    {
+      "id": "22",
+      "district": "jaipur",
+      "name": "Apex Mall",
+      "type": "Market, Shopping",
+      "address": "Tonk Rd, Satya Vihar, Greater Kailash Colony, Vidhayak Nagar, Lalkothi, Jaipur",
+      "lat": "26.8882° N",
+      "lon": "75.8027° E"
+    },
+    {
+      "id": "23",
+      "district": "jaipur",
+      "name": "Elements Mall",
+      "type": "Market, Shopping",
+      "address": "Plot 18, Ajmer Road, Jaipur",
+      "lat": "13.0451° N",
+      "lon": "77.6269° E"
+    },
+    {
+      "id": "24",
+      "district": "jaipur",
+      "name": "Central Mall",
+      "type": "Market, Shopping",
+      "address": "12, Govind Marg, C-Scheme, Raja Park, Bees Dukan, Ashok Nagar, Jaipur",
+      "lat": "12.9265° N",
+      "lon": "77.6753° E"
+    },
+    {
+      "id": "25",
+      "district": "jaipur",
+      "name": "CM Tower",
+      "type": "Market, Shopping",
+      "address": "Unnamed Road, Rohini Nagar, Vidhyadhar Nagar, Keshar Vihar, Jagatpura, Jaipur",
+      "lat": "43.6426° N",
+      "lon": "79.3871° W"
+    },
+    {
+      "id": "26",
+      "district": "jaipur",
+      "name": "Jaipur National University",
+      "type": "College, University, Educational Institute",
+      "address": "Jaipur-Agra Bypass, near New RTO office, Jagatpura, Jaipur",
+      "lat": "26.8475° N",
+      "lon": "75.8601° E"
+    },
+    {
+      "id": "27",
+      "district": "jaipur",
+      "name": "Malaviya National Institute of Technology",
+      "type": "College, University, Educational Institute",
+      "address": "Jawahar Lal Nehru Marg, Jhalana Gram, Malviya Nagar, Jaipur",
+      "lat": "26.8475° N",
+      "lon": "75.8601° E"
+    },
+    {
+      "id": "28",
+      "district": "jaipur",
+      "name": "Manipal University Jaipur",
+      "type": "College, University, Educational Institute",
+      "address": "Jaipur-Ajmer Express Highway, Dehmi Kalan, Near GVK Toll Plaza, Jaipur",
+      "lat": "26.8439° N",
+      "lon": "75.5652° E"
+    },
+    {
+      "id": "29",
+      "district": "jaipur",
+      "name": "NIMS University",
+      "type": "College, University, Educational Institute",
+      "address": "NH-11C, Delhi - Jaipur Expy, Shobha Nagar, Jaipur",
+      "lat": "27.1927° N",
+      "lon": "75.9540° E"
+    },
+    {
+      "id": "30",
+      "district": "jaipur",
+      "name": "University Of Rajasthan",
+      "type": "College, University, Educational Institute",
+      "address": "Jawahar Lal Nehru Marg, Rajasthan University Campus, Talvandi, Jaipur",
+      "lat": "26.8865° N",
+      "lon": "75.8157° E"
+    },
+    {
+      "id": "31",
+      "district": "jaipur",
+      "name": "Rajasthan University of Health Science",
+      "type": "College, University, Educational Institute",
+      "address": "Sector 18 Rd, Kumbha Marg, Sector 18, Pratap Nagar, Jaipur",
+      "lat": "26.8015° N",
+      "lon": "75.8289° E"
+    },
+    {
+      "id": "32",
+      "district": "jaipur",
+      "name": "National Institue of Ayurveda",
+      "type": "College, University, Educational Institute",
+      "address": "Madhav Vilas Palace,Amer Road, Jaipur",
+      "lat": "26.9346° N",
+      "lon": "75.8319° E"
+    },
+    {
+      "id": "33",
+      "district": "jaipur",
+      "name": "Vivekanand Global University",
+      "type": "College, University, Educational Institute",
+      "address": "Sector 36, NRI Rd, V I T Campus, Jagatpura, Jaipur",
+      "lat": "26.8117° N",
+      "lon": "75.8899° E"
+    },
+    {
+      "id": "34",
+      "district": "jaipur",
+      "name": "Suresh Gyan Vihar University",
+      "type": "College, University, Educational Institute",
+      "address": "Mahal Rd, Mahal, Jagatpura, Jaipur",
+      "lat": "26.8117° N",
+      "lon": "75.8899° E"
+    },
+    {
+      "id": "35",
+      "district": "jaipur",
+      "name": "JK Lakshmipat University",
+      "type": "College, University, Educational Institute",
+      "address": "JK Lakshmipat University Near Mahindra SEZ, P.O. 302 026, Ajmer Road, Mahapura",
+      "lat": "26.8361° N",
+      "lon": "75.6502° E"
+    },
+    {
+      "id": "36",
+      "district": "jaipur",
+      "name": "The ICFAI University",
+      "type": "College, University, Educational Institute",
+      "address": "ICFAI university, Main, Agra Rd, Jaipur",
+      "lat": "30.3631° N",
+      "lon": "77.8761° E"
+    },
+    {
+      "id": "37",
+      "district": "jaipur",
+      "name": "Poornima College of Engineering",
+      "type": "College, University, Educational Institute",
+      "address": "ISI-6, RIICO Institutional Area, Sitapura, Jaipur",
+      "lat": "30.3631° N",
+      "lon": "77.8761° E"
+    },
+    {
+      "id": "38",
+      "district": "jaipur",
+      "name": "Rajasthan College of Engineering",
+      "type": "College, University, Educational Institute",
+      "address": "Bhankrota, Ajmer Rd, Jaipur",
+      "lat": "26.8779° N",
+      "lon": "75.6908° E"
+    },
+    {
+      "id": "39",
+      "district": "jaipur",
+      "name": "University Commerce College",
+      "type": "College, University, Educational Institute",
+      "address": "Sector 7, Madhyam Marg, Mansarovar Sector 7, Shipra Path, Barh Devariya, Mansarovar, Jaipur",
+      "lat": "26.8774° N",
+      "lon": "75.8117° E"
+    },
+    {
+      "id": "40",
+      "district": "jaipur",
+      "name": "University Maharani's College",
+      "type": "College, University, Educational Institute",
+      "address": "Ram Singh Road, Panch Batti, Sangram Colony, Ashok Nagar, Jaipur",
+      "lat": "26.9117° N",
+      "lon": "75.8152° E"
+    }
+  ]
+}
